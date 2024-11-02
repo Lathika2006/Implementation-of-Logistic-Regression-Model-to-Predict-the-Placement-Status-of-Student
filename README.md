@@ -70,13 +70,6 @@ print("\nClassification Report:\n",cr)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/920775f0-427e-4568-afad-ef12eeb02c07)
-
-![image](https://github.com/user-attachments/assets/d8d30dda-1499-4ca9-b0e9-4e8031133b74)
-
-![image](https://github.com/user-attachments/assets/410fb885-3ec4-4c5b-89b8-715e09bf447b)
-
-![image](https://github.com/user-attachments/assets/b243c8be-0486-4dfd-9d90-457dda38003f)
 
 ![image](https://github.com/user-attachments/assets/0e84a34f-afc0-48f0-88a5-dff0547f560f)
 
