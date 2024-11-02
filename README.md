@@ -72,7 +72,9 @@ print("\nClassification Report:\n",cr)
 ## Output:
 ## ACCURACY
 ![image](https://github.com/user-attachments/assets/4f898811-2021-4b72-ae0b-113f9e875bb2)
+
 ![image](https://github.com/user-attachments/assets/f910dd69-64e1-4b3e-970b-dde6b1057178)
+
 ![image](https://github.com/user-attachments/assets/c34da8ef-1bb0-468d-b164-0d57bd7aaf06)
 
 
