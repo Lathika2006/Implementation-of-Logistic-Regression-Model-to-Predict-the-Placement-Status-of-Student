@@ -71,12 +71,6 @@ print("\nClassification Report:\n",cr)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/0e84a34f-afc0-48f0-88a5-dff0547f560f)
-
-![image](https://github.com/user-attachments/assets/816ae8e9-b912-4cd5-ae62-bdd6737fc749)
-
-![image](https://github.com/user-attachments/assets/3d52a343-46ac-43c1-bb09-d52a7725257f)
-
 ![image](https://github.com/user-attachments/assets/4f898811-2021-4b72-ae0b-113f9e875bb2)
 
 ## Result:
